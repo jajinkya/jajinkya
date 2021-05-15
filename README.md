@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning**
 
-- 📫 How to reach me **ajinkyaajadhav@outloo.com**
+- 📫 How to reach me **ajinkyaajadhav@outlook.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
