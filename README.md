@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [BatchNormalization- a technique that enhances training](https://ajinkya14jadhav.medium.com/batchnormalization-a-technique-that-enhances-training-5d44966c22c0?source=rss-f9ccae9c8ab2------2)
+- [BatchNormalization- a technique that enhances training](https://medium.com/geekculture/batchnormalization-a-technique-that-enhances-training-5d44966c22c0?source=rss-f9ccae9c8ab2------2)
 - [Optimization of Support Vector Machine](https://medium.com/analytics-vidhya/optimization-of-support-vector-machine-709090570dbb?source=rss-f9ccae9c8ab2------2)
 - [Support Vector Machine-Intuition validate with maths](https://medium.com/analytics-vidhya/support-vector-machine-intuition-validate-with-maths-e10fb8cc7f57?source=rss-f9ccae9c8ab2------2)
 <!-- BLOG-POST-LIST:END -->
